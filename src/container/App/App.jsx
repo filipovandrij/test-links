@@ -1,5 +1,5 @@
 import LazyLoadComponent from '../../components/LazyLoadComponent'
-import { Route, Link, Routes } from 'react-router-dom'
+import { Route, Routes } from 'react-router-dom'
 import Header from '../Header/Header'
 
 import tabsConfig from '../../config/tabs.json'
